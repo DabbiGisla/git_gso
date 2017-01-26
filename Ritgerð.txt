@@ -7,3 +7,5 @@ Gagnasafn eru til þess að varðveita gögn. Það er ekki skynsamlegt að reyn
 Gagnasafnskerfi hefur sitt eigið hugtak yfir skrár. Skrá í gagnasafnskerfi samanstendur af blokkum, stumdum sagt síðum. Gagnasafnskerfi hefur einnig sína eigin stærð af blokkum. Oftast valið þannig að ein blokk í gagnasafskerfinu rúmast fyrir í einni blokk í skráarkerfinu. Sum gagnasafnskerfi geta unnið beint á disk án þess að fara í gegnum skráarkerfi. Fara þá alveg fram hjá flýtisvistun í kjarnanum, ákvörðunum í skráarkerfi um staðsetningu á blokkum o.s.frv. Flest gangasafnskerfi nota samt  bara skrár í skráarkerfinu
 
 Færsla á gögnum tekur tíma og það miðast við hversu góða tölvu þú ert með til dæmis þegar þú ert að færa myndir úr tölvunni yfir á harðan disk. Þetta getur allt tekið mikin tíma ef þú ert ekki með nógu góða tölvu.
+
+Skrá er orð yfir hlutina í tölvunni og eru til margar tegundir af skrám. 
