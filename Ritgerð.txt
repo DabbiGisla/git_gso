@@ -9,3 +9,5 @@ Gagnasafnskerfi hefur sitt eigið hugtak yfir skrár. Skrá í gagnasafnskerfi s
 Færsla á gögnum tekur tíma og það miðast við hversu góða tölvu þú ert með til dæmis þegar þú ert að færa myndir úr tölvunni yfir á harðan disk. Þetta getur allt tekið mikin tíma ef þú ert ekki með nógu góða tölvu.
 
 Skrá er orð yfir hlutina í tölvunni og eru til margar tegundir af skrám. 
+
+Skráarsnið eru eins og tildæmis hefðbundnu Microsoft skráarsniðin sem hafa endigarnar .doc .xls .ppt/.pps svo eru auðvitað .mp3 fyrir hljóð og svo eru til mörg dæmi um skráarsnið á videoskrám til dæmis .avi .mkv .wmv .flv og fleira.
