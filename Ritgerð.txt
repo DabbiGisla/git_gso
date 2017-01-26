@@ -11,3 +11,5 @@ Færsla á gögnum tekur tíma og það miðast við hversu góða tölvu þú e
 Skrá er orð yfir hlutina í tölvunni og eru til margar tegundir af skrám. 
 
 Skráarsnið eru eins og tildæmis hefðbundnu Microsoft skráarsniðin sem hafa endigarnar .doc .xls .ppt/.pps svo eru auðvitað .mp3 fyrir hljóð og svo eru til mörg dæmi um skráarsnið á videoskrám til dæmis .avi .mkv .wmv .flv og fleira.
+
+Þetta er allt eitthvað sem við munum nota og notum mismikið af því en eitt mun alltaf verða og það eru gögn. Þau munu aldrei fara og ef þau geymast vel geta þau ennst lengi. Fólk ætti líka að vera duglegri að geyma gögnin sín á tvem mismunandi stöðum því ef eldgamla fartölvan sem notuð er á heimilinu deyr allt í einu þá eru gögnin mögulega horfin.
